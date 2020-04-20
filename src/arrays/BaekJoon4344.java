@@ -11,7 +11,7 @@ package arrays;
 
 import java.util.Scanner;
 
-public class BackJoon4344 {
+public class BaekJoon4344 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

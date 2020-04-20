@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 /**
  * create by ruccess.
  * Version: 1.0.0
@@ -6,4 +8,5 @@
  */
 
 public class Main {
+
 }

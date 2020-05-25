@@ -20,5 +20,6 @@ public class BaekJoon1712 {
         if (sellNum <= makeNum) result = -1;
         else result = fixNum / (sellNum - makeNum) + 1;
         System.out.println(result);
+        System.out.println("test");
     }
 }

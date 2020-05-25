@@ -1,5 +1,5 @@
 /**
- * create by ruccess.
+ * create by ruccess0.0@gmail.com
  * Version: 1.0.0
  * Date: 2020-05-25
  * Description:손익분기점
@@ -20,6 +20,5 @@ public class BaekJoon1712 {
         if (sellNum <= makeNum) result = -1;
         else result = fixNum / (sellNum - makeNum) + 1;
         System.out.println(result);
-        System.out.println("test");
     }
 }

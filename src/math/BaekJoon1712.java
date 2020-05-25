@@ -1,5 +1,5 @@
 /**
- * create by ruccess0.0@gmail.com
+ * create by ruccess.
  * Version: 1.0.0
  * Date: 2020-05-25
  * Description:손익분기점
